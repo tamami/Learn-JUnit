@@ -7,7 +7,7 @@ public class EmpBusinessLogic {
 		double yearlySalary = 0;
 		yearlySalary = employeeDetails.getMonthlySalary() * 12;
 		return yearlySalary;
-	}
+	} 
 	
 	// Calculate the appraisal amount of employee
 	public double calculateAppraisal(EmployeeDetails employeeDetails) {

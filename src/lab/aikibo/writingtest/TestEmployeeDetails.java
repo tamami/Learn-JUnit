@@ -19,7 +19,7 @@ public class TestEmployeeDetails {
 		assertEquals(500, appraisal, 0.0);
 	}
 	
-	// test to check yearly salary
+	// test to check yearly salary 
 	@Test
 	public void testCalculateYearlySalary() {
 		employee.setName("Rajeev");

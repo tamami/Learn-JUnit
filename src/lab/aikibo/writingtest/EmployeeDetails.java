@@ -39,7 +39,7 @@ public class EmployeeDetails {
 	 */
 	public int getAge() {
 		return age;
-	}
+	} 
 	
 	/**
 	 * @param age the age to set
