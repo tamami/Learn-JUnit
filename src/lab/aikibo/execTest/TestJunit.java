@@ -1,4 +1,4 @@
-package execTest;
+package lab.aikibo.execTest;
 
 import static org.junit.Assert.*;
 

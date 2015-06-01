@@ -1,4 +1,4 @@
-package execTest;
+package lab.aikibo.execTest;
 
 public class MessageUtil {
 	
